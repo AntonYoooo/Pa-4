@@ -11,7 +11,10 @@ Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown 
 
 ![image](https://github.com/user-attachments/assets/633cdff8-4453-4d52-85ad-8dd1df868700)
 
+2.) Create a visualization that shows how the different features contributes to average grade.
+
 ## Task and Solutions: 
+#### 1.) Dataframe
 a. Import Dataframes 
 ```Python
 import pandas as pd #import panda in order to access its library 
@@ -49,7 +52,7 @@ Mindy #Prints the Dataframe
 ![image](https://github.com/user-attachments/assets/9cef5dbd-d1e7-4e57-8826-fa2a1a45114e)
 
 
-#### 2.) Create a visualization that shows how the different features contributes to average grade. 
+#### 2.) Visualization
 2.a.) Correlation between Tracks and Average Grades
 ```Python
 #Create a visualization that shows how the different features contributes to average grade. 
