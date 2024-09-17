@@ -13,8 +13,7 @@ Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown 
 ![image](https://github.com/user-attachments/assets/633cdff8-4453-4d52-85ad-8dd1df868700)
 
 #### Task: 
-a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as
-Instrumentation and hometown Luzon
+a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
 b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is
 constant as Mindanao and gender Female
 
