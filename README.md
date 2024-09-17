@@ -50,7 +50,7 @@ Mindy #Prints the Dataframe
 
 
 #### 2.) Create a visualization that shows how the different features contributes to average grade. 
-2.a) Correlation between Tracks and Average Grades
+2.a.) Correlation between Tracks and Average Grades
 ```Python
 #Create a visualization that shows how the different features contributes to average grade. 
 #Visualization for 
@@ -65,7 +65,7 @@ plt.show() #displays the boxplot
 
 ![image](https://github.com/user-attachments/assets/23e91194-5ff5-480f-86ae-279d28e55c4c)
 
-2.b) Correlation between Gender and Average Grades
+2.b.) Correlation between Gender and Average Grades
 ```Python
 sns.boxplot(x ='Gender', y ='Average', hue ='Gender', data = df) ##Creates a boxplot that correlates Gender and average grade 
 plt.title('Correlation between Gender and Average Grades') #display title
@@ -76,7 +76,7 @@ plt.show() #displays the boxplot
 
 ![image](https://github.com/user-attachments/assets/d24e6338-d8a0-4697-ad4f-2246de6f90b6)
 
-2.c) Correlation between Hometown and Average Grades
+2.c.) Correlation between Hometown and Average Grades
 ```Python
 sns.boxplot(x='Hometown', y='Average', hue='Hometown', data=df) #Creates a boxplot that correlates hometown and average
 plt.title('Correlation between Hometown and Average Grades') #displays title 
